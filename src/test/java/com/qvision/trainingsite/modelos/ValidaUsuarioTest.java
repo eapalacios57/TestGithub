@@ -44,6 +44,7 @@ public class ValidaUsuarioTest {
     @Test
     public void testIniciaSesion() {
         System.out.println("iniciaSesion");
+        System.out.println("iniciaSesion");
         Usuarios unUsuario = new Usuarios();
         unUsuario.setNomUsu("qmatic@qvision.com.co");
         unUsuario.setPassUsu("secret");
