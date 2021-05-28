@@ -1,2 +1,0 @@
-<<<<<<< HEAD
-# Readme Rama Master
